@@ -1,0 +1,7 @@
+- Bryan Caplan
+	- [A Bryan Caplan Primer](https://www.reddit.com/r/slatestarcodex/comments/3vf8qw/a_bryan_caplan_primer/)
+	-
+- Michael Huemer
+- David Friedman
+- Milton Friedman
+- Robin Hanson

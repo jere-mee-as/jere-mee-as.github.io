@@ -1,0 +1,49 @@
+- Welcome to my Digital Brain!
+	- I usually write about economics, politics, and philosophy. But I'll probably write about everything else eventually.
+- My blog: [The Jereian Times](https://lesymboliste.substack.com/)
+- ### New!:
+	- [[Jere's Ideal Society]]
+	- [[Libertine Libertarianism]]
+-
+- ## Topics & Content
+	- ### Philosophy
+		- #### Write-ups
+		  collapsed:: true
+			- [[Secession is Great!]]
+		- Articles I Like
+	- ### Politics
+	  collapsed:: true
+		- Articles I Like
+	- ### Economics
+	  collapsed:: true
+		- [[Alchian's List of Popular But Wrong Economic Beliefs]]
+		- ### Articles I Like
+			-
+	- ### Libertarianism
+		- #### Quick "Capitalism Is Good" Arguments
+			- It's risen [[Absolute Poverty]] beyond anything else ever.
+			- Markets don't care about what you do, don't do, buy, or don't buy.
+			- Markets don't care who you are or where you come from.
+			- You're treated [like an adult](https://www.deirdremccloskey.com/docs/pdf/McCloskey_LiberalismAdultism.pdf).
+			- [Let's you solve problems](https://www.kysq.org/docs/Hayek_45.pdf) you know how to solve the best way you know how.
+			- iPhones, [[ChatGPT]] , Amazon, used book stores, Target, shopping, Spotify.
+			- Every poor person already wants and looks for it.
+		- #### Write-ups
+			- [[Libertine Libertarianism]]
+			- [["There Shouldn't Be Billionaires!" (long)]]
+		- #### Counter Arguments
+		  collapsed:: true
+			- [Capitalism and Extreme Poverty](https://www.sciencedirect.com/science/article/pii/S0305750X22002169#s0045)
+		- #### Articles I Like
+			-
+-
+- ### Fun/Interesting
+	- [[Family Links]]
+	- [[Internet Links]]
+	- [[People I Think Are Smart]]
+	- [[People I Once Thought Were Smart and Still Think They're Smart But I Don't Listen to Them Anymore]]
+	- [[Jere's Ideal Society]]
+-
+- ### Rant
+	- [["There Shouldn't Be Billionaires!" (long)]]
+-

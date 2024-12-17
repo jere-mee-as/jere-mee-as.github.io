@@ -1,0 +1,67 @@
+## Articles
+	- [The Myth of the Broke Millennial (Archive)](https://archive.is/ElSI0)
+-
+- ## Weird/Schizo
+	- [https://crypt.grotto.faith/](https://crypt.grotto.faith/)
+	- [120 Days of Sodom ASMR](https://www.youtube.com/watch?v=ves9aMxZ8T8)
+	- [Ulillillia's Personal Website](https://web.archive.org/web/20161214204226/http://www.ulillillia.us/features/mindgame/mindgamehome.shtml)
+		- Context: https://www.youtube.com/watch?v=9-79yOZ13qg
+	- [Rotten.com Archive (Disturbing Warning--Haven't actually looked into it)](https://gwern.net/doc/rotten.com/library/index.html)
+	- [Wakefield Press (Literary Oddities)](https://wakefieldpress.com/)
+-
+- ## Wikipedia
+	- ### History
+	  collapsed:: true
+		- What I looked up while reading *The Rise and Fall of the Third Reich*
+		  collapsed:: true
+			- [https://en.wikipedia.org/wiki/Year_6000](https://en.wikipedia.org/wiki/Year_6000)
+			- [https://en.wikipedia.org/wiki/Strength_Through_Joy](https://en.wikipedia.org/wiki/Strength_Through_Joy)
+			- [https://en.wikipedia.org/wiki/Jewish_Autonomous_Oblast](https://en.wikipedia.org/wiki/Jewish_Autonomous_Oblast)
+			- [https://en.wikipedia.org/wiki/Golden_Twenties](https://en.wikipedia.org/wiki/Golden_Twenties)
+			- [https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
+			- [https://en.wikipedia.org/wiki/Fortnite_Holocaust_Museum](https://en.wikipedia.org/wiki/Fortnite_Holocaust_Museum)
+			- [https://en.wikipedia.org/wiki/Haredi_news_hotline](https://en.wikipedia.org/wiki/Haredi_news_hotline)
+			- [https://en.wikipedia.org/wiki/Association_of_German_National_Jews](https://en.wikipedia.org/wiki/Association_of_German_National_Jews)
+		- [https://en.wikipedia.org/wiki/Category:Territorial_evolution_by_country](https://en.wikipedia.org/wiki/Category:Territorial_evolution_by_country)
+		- [https://en.m.wikipedia.org/wiki/Mao_Zedong_thanking_Japan_controversy](https://en.m.wikipedia.org/wiki/Mao_Zedong_thanking_Japan_controversy)
+	- ### Technology
+	  collapsed:: true
+		- [https://en.m.wikipedia.org/wiki/Brainfuck](https://en.m.wikipedia.org/wiki/Brainfuck)
+		- [https://en.wikipedia.org/wiki/Roko's_basilisk](https://en.wikipedia.org/wiki/Roko's_basilisk)
+		-
+	- [https://en.wikipedia.org/wiki/Lowbrow_(art_movement)](https://en.wikipedia.org/wiki/Lowbrow_(art_movement))
+	- [https://en.wikipedia.org/wiki/List_of_colors_(alphabetical)#](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical)#)
+	- [https://en.m.wikipedia.org/wiki/Moralistic_fallacy](https://en.m.wikipedia.org/wiki/Moralistic_fallacy)
+	- [https://en.wikipedia.org/wiki/List_of_premature_professional_wrestling_deaths#](https://en.wikipedia.org/wiki/List_of_premature_professional_wrestling_deaths#)
+	- [https://en.wikipedia.org/wiki/Wikipedia:Extreme_article_inclusion](https://en.wikipedia.org/wiki/Wikipedia:Extreme_article_inclusion)
+	- [https://en.m.wikipedia.org/wiki/List_of_common_misconceptions](https://en.m.wikipedia.org/wiki/List_of_common_misconceptions)
+	- [https://en.wikipedia.org/wiki/White_torture](https://en.wikipedia.org/wiki/White_torture)
+	- [https://en.wikipedia.org/wiki/Ranieri_Filo_della_Torre_literary_prize](https://en.wikipedia.org/wiki/Ranieri_Filo_della_Torre_literary_prize)
+	- [https://en.wikipedia.org/wiki/Pan-Latinism](https://en.wikipedia.org/wiki/Pan-Latinism)
+	- [https://en.wikipedia.org/wiki/Pulsar_planet#](https://en.wikipedia.org/wiki/Pulsar_planet#)
+	- [https://en.wikipedia.org/wiki/Thorne–Żytkow_object](https://en.wikipedia.org/wiki/Thorne–Żytkow_object)
+	- [https://en.wikipedia.org/wiki/Small-world_experiment](https://en.wikipedia.org/wiki/Small-world_experiment)
+	- [https://en.wikipedia.org/wiki/List_of_stories_set_in_a_future_now_in_the_past](https://en.wikipedia.org/wiki/List_of_stories_set_in_a_future_now_in_the_past)
+	- [https://en.wikipedia.org/wiki/Satanic_Verses](https://en.wikipedia.org/wiki/Satanic_Verses)
+	- [https://en.wikipedia.org/wiki/Nova_Roma](https://en.wikipedia.org/wiki/Nova_Roma)
+	- [https://en.wikipedia.org/wiki/Mouthfeel](https://en.wikipedia.org/wiki/Mouthfeel)
+	- [https://en.wikipedia.org/wiki/Monoamine_oxidase_A](https://en.wikipedia.org/wiki/Monoamine_oxidase_A)
+	- [https://en.wikipedia.org/wiki/The_law_of_conservation_of_misery](https://en.wikipedia.org/wiki/The_law_of_conservation_of_misery)
+	- [https://en.wikipedia.org/wiki/Waterbed_theory](https://en.wikipedia.org/wiki/Waterbed_theory)
+	- [https://en.wikipedia.org/wiki/Planet_Nine](https://en.wikipedia.org/wiki/Planet_Nine)
+	- [https://en.wikipedia.org/wiki/Third_man_factor](https://en.wikipedia.org/wiki/Third_man_factor)
+	- [https://en.wikipedia.org/wiki/Orthographic_depth](https://en.wikipedia.org/wiki/Orthographic_depth)
+	- [https://en.wikipedia.org/wiki/Polar_T3_syndrome](https://en.wikipedia.org/wiki/Polar_T3_syndrome)
+	- [https://en.wikipedia.org/wiki/Semantic_Web](https://en.wikipedia.org/wiki/Semantic_Web)
+	- [https://en.wikipedia.org/wiki/Spider-Bitch_(Ashley_Barton)](https://en.wikipedia.org/wiki/Spider-Bitch_(Ashley_Barton))
+	- [https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/1](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/1)
+	- [https://en.wikipedia.org/wiki/Multistable_perception](https://en.wikipedia.org/wiki/Multistable_perception)
+	- [https://en.wikipedia.org/wiki/Goodhart's_law](https://en.wikipedia.org/wiki/Goodhart's_law)
+	- [https://en.wikipedia.org/wiki/Arditi](https://en.wikipedia.org/wiki/Arditi)
+	- [https://en.wikipedia.org/wiki/Shanxi_Rift_System](https://en.wikipedia.org/wiki/Shanxi_Rift_System)
+	- [https://en.wikipedia.org/wiki/Curse_of_39](https://en.wikipedia.org/wiki/Curse_of_39)
+	- [https://en.wikipedia.org/wiki/Sell_your_cloak_and_buy_a_sword](https://en.wikipedia.org/wiki/Sell_your_cloak_and_buy_a_sword)
+	- [https://en.wikipedia.org/wiki/Victor_Noir#Monument](https://en.wikipedia.org/wiki/Victor_Noir#Monument)
+	- [https://en.m.wikipedia.org/wiki/Antinomianism](https://en.m.wikipedia.org/wiki/Antinomianism)
+	- [https://de-m-wikipedia-org.translate.goog/wiki/Friedensrede_vom_17._Mai_1933?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp](https://de-m-wikipedia-org.translate.goog/wiki/Friedensrede_vom_17._Mai_1933?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+	- [https://en.wikipedia.org/wiki/Deletionism_and_inclusionism_in_Wikipedia](https://en.wikipedia.org/wiki/Deletionism_and_inclusionism_in_Wikipedia)

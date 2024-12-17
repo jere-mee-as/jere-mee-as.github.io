@@ -1,0 +1,6 @@
+- Here's a situation:
+	- The country that I am in isn't doing things like. I want gay marriage, right to abortion, trans surgery, and affirmative action. Every election, I vote for the candidate that agrees with me, but all of us are in the minority: 40%.
+	- The leaders that win prevent us from doing what we want despite us not harming anyone. Moreover, the leader is drafting us to go to war for wars we don't even agree with! And this leader and his administration is forcing us to fund him through taxes!
+	- The horror!
+- This is the democratic situation and it's terrible. Not just for us, but for those around us. After all, we don't respect the people that disagree vehemently with us, and we don't respect them! Wouldn't it be great if we just made our own society where we could live under the rules we find important?
+- **YES!!**

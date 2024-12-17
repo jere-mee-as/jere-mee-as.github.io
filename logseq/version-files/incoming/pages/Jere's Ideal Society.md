@@ -1,0 +1,28 @@
+- [Grey tribe](https://www.reddit.com/r/slatestarcodex/comments/7h1fs6/grey_tribe_values/) + [Effective Accelerationism](https://en.wikipedia.org/wiki/Effective_accelerationism)
+- Hypercapitalist Cyberpunk without the pessimism
+- Here's [[ChatGPT]]'s take:
+	- https://chatgpt.com/share/675c738c-2b10-8005-885a-d69afdf9f01a
+	- ### Core Tenets:
+	  collapsed:: true
+		- **Technological Acceleration as a Moral Imperative**:
+			- Technological and economic progress is the key to solving global problems.
+			- Acceleration is not just pragmatic but a duty: *"Stasis is stagnation; progress is life."*
+		- **Rational Optimism**:
+			- Focus on reason, data, and evidence to justify optimism about the future.
+			- Skeptical of fear-based or Malthusian arguments against growth and acceleration.
+		- **Libertarian Structure**:
+			- Preference for decentralized systems, markets, and minimal government interference.
+			- Trust in *emergent order* rather than central planning to manage the effects of rapid change.
+		- **Human Flourishing through Innovation**:
+			- Progress should align with increasing freedom, opportunity, and well-being.
+			- Ethical techno-optimism: Technology must enhance individual autonomy, not suppress it.
+		- **Anti-Doomer, Anti-Stasis**:
+			- Rejects narratives of civilizational decline or moral collapse.
+			- Sees existential risk (AI, biotech, etc.) as real but manageable through further acceleration and proactive solutions.
+		- **Cultural Neutrality with Meritocratic Edge**:
+			- Skeptical of identity-based or tribal narratives.
+			- Strong emphasis on excellence, competence, and contribution over status or virtue signaling.
+	- **Summary: rational techno-optimism with libertarian pragmatism**
+- Illustration
+  collapsed:: true
+	- ![A futuristic hyper-capitalist city with advanced technology and a rationalist aesthetic. The skyline features massive skyscrapers adorned with glowing neon advertisements and holographic billboards. AI-powered drones hover in the sky, scanning the streets below. People walk in sleek cybernetic outfits with glowing implants, some wearing neural interface headsets. The city is meticulously clean and efficient, with traffic directed by algorithms, glowing data streams running through the streets like veins of energy. A corporate palace towers above the city, adorned with logos and surrounded by surveillance drones. In the background, automated factories hum with activity, and a massive quantum computer with a pulsating light core looms in the distance. The atmosphere is coldly beautiful, hyper-organized, and post-human, blending human life with advanced AI systems.](https://files.oaiusercontent.com/file-PKsScztJsHZ6AxsKimDpxJ?se=2024-12-16T21%3A50%3A10Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da521ce81-b423-4091-ade2-c3b3103c00ba.webp&sig=DKeQ0nEz4a1U6pioNyrbZGC3qK0zRdzNU1A8xwKl7cs%3D)

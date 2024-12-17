@@ -1,0 +1,2 @@
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/World-population-in-extreme-poverty-absolute.svg/1280px-World-population-in-extreme-poverty-absolute.svg.png
+	- [[Reasons to be Cheerful]]
